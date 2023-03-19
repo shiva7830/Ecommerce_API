@@ -12,9 +12,6 @@ Its an Ecommerce API to manage product inventory
 
 ## How to setup
 
-Repo link 
-https://github.com/raj0811/issueTracker.git
-
 
 > ***Install project with npm***       
 
